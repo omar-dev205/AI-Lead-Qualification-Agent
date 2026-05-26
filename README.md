@@ -29,6 +29,6 @@ Scalability: Easily handles an increasing volume of leads without extra effort.
 🤝 Contact
 If you have any questions or would like to discuss automation solutions, feel free to reach out:
 
-LinkedIn: [https://www.linkedin.com/in/omar-faruk-b819b1280/]
+LinkedIn: [ www.linkedin.com/in/omar-faruk-b819b1280/ ]
 
-GitHub: [
+GitHub: [ https://github.com/omar-dev205 ]
